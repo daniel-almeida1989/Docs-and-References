@@ -3,9 +3,9 @@
 This is for you who want to know a bit about me, just like a "bio".
 If you want to know something more specific, check out my CV.
 
-Version: 1.0-20190815
+Version: 1.1-20190815
 
-# This is about my journey at IT since as a kid, until now at Software Development.
+# This is about my journey at IT since I was a kid, until now at Software Development.
 
 
 I always love to know how the things work.
