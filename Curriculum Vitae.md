@@ -10,20 +10,29 @@ Github Résumé: https://resume.github.io/?daniel-almeida1989
 # General Information
 
 Full Name: Daniel Augusto Monteiro de Almeida
+
 Father's Name: Paulo Daniel Augusto de Almeida
+
 Mother's Name: Maria Alice Barbosa Monteiro
+
 Birth Date: Jan 4th, 1989
+
 Natural from: Rio de Janeiro
+
 Nationality: Brazillian
 
+
 Address: Campos Elíseos, São Paulo, SP.
+
 For further information, please contact me.
 
 
 # Contact
 
 e-mail: dex.houshi@hotmail.com / dexmail2005@gmail.com
+
 Facebook: https://www.facebook.com/dex.augusto
+
 LinkedIn: https://www.linkedin.com/in/daniel-augusto-monteiro-de-almeida-426ab4150/
 
 
@@ -58,14 +67,26 @@ used frameworks and techologies used nowadays in market.
 
 # Features
 
-High good vibe
+Adventurer
+
+Good vibes guy
+
 Simple and Natural
+
 Prefer simplify things rather than complicate them but without bypassing the rules and standards
+
 Always study
+
 Curious by born
+
 Technical, methodic, exact, direct
+
 "Team is family" feeling
+
 Good mood 100% of the time
+
 Loves physical books, games and anime
+
 Loves to discover how things really work
+
 "Human Enciclopedia"
