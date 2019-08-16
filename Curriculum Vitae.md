@@ -2,7 +2,7 @@
 
 "Life is made of challenges and I'm the one to conquer them all".
 
-Curriculum Vitae / Résumé. Version: 1.0-20190816
+Curriculum Vitae / Résumé. Version: 1.2-20190816
 
 Github Résumé: https://resume.github.io/?daniel-almeida1989
 
