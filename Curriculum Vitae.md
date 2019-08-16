@@ -2,7 +2,9 @@
 
 "Life is made of challenges and I'm the one to conquer them all".
 
-Curriculum Vitae / Resume. Version: 0.1-20190816
+Curriculum Vitae / Résumé. Version: 1.0-20190816
+
+Github Résumé: https://resume.github.io/?daniel-almeida1989
 
 
 # General Information
@@ -14,7 +16,7 @@ Birth Date: Jan 4th, 1989
 Natural from: Rio de Janeiro
 Nationality: Brazillian
 
-Address: Campos El�seos, S�o Paulo, SP.
+Address: Campos Elíseos, São Paulo, SP.
 For further information, please contact me.
 
 
