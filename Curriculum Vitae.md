@@ -2,7 +2,7 @@
 
 "Life is made of challenges and I'm the one to conquer them all".
 
-Curriculum Vitae / Résumé. Version: 1.2-20190816
+Curriculum Vitae / Résumé. Version: 1.3-201224
 
 Github Résumé: https://resume.github.io/?daniel-almeida1989
 
@@ -10,10 +10,6 @@ Github Résumé: https://resume.github.io/?daniel-almeida1989
 # General Information
 
 Full Name: Daniel Augusto Monteiro de Almeida
-
-Father's Name: Paulo Daniel Augusto de Almeida
-
-Mother's Name: Maria Alice Barbosa Monteiro
 
 Birth Date: Jan 4th, 1989
 
@@ -29,7 +25,7 @@ For further information, please contact me.
 
 # Contact
 
-e-mail: dex.houshi@hotmail.com / dexmail2005@gmail.com
+e-mail: dex.houshi@hotmail.com
 
 Facebook: https://www.facebook.com/dex.augusto
 
